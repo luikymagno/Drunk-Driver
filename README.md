@@ -1,2 +1,2 @@
 # General
-Luiky!!!!!
+General scope for the project
