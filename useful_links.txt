@@ -1,0 +1,2 @@
+High-accuracy Keyword Spotting on Arm Cortex-M (applicable for NN systems and speech recognition): 
+	https://community.arm.com/processors/b/blog/posts/high-accuracy-keyword-spotting-on-cortex-m-processors
