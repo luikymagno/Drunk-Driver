@@ -1,4 +1,4 @@
-# General
+# Project Drunk-Driver
 General scope for the project of Sistemas Microprocessados - 2018.2
 Professor: Ricardo
 
