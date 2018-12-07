@@ -1,2 +1,11 @@
 High-accuracy Keyword Spotting on Arm Cortex-M (applicable for NN systems and speech recognition): 
 	https://community.arm.com/processors/b/blog/posts/high-accuracy-keyword-spotting-on-cortex-m-processors
+
+AT commands with ESP8266 and thingspeak:
+	https://www.electronicshub.org/connect-esp8266-to-thingspeak/
+
+Bot on telegram:
+	https://telepot.readthedocs.io/en/latest/
+
+Reading data from thing speak:
+	https://www.electronicshub.org/connect-esp8266-to-thingspeak/
