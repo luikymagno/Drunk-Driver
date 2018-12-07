@@ -131,7 +131,7 @@ int main(void)
   HAL_UART_Receive(&huart1, buf1, 100, 3000);
   HAL_Delay(300);
 //Name and password of the Wi-Fi
-  HAL_UART_Transmit(&huart1, (uint8_t *)"AT+CWJAP=\"PET\",\"2018pet2017\"\r\n", 50, 2000);
+  HAL_UART_Transmit(&huart1, (uint8_t *)"AT+CWJAP=\"REDE_WIFI\",\"SENHA\"\r\n", 50, 2000);
   HAL_UART_Receive(&huart1, buf1, 100, 10000);
   HAL_Delay(300);
 //Sets the communication mode as single mode
